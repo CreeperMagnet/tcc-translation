@@ -1,11 +1,11 @@
 {
-  "item.minecraft.knowledge_book": "Click to craft",
-  "block.minecraft.repeating_command_block": "§fObsidian Shard",
+  "item.minecraft.knowledge_book": "Cliquez pour fabriquer",
+  "block.minecraft.repeating_command_block": "§fÉclat d'obsidienne",
 
   "pack.tcc": "The Creeper's Code",
-  "pack.tcc.hover_event": "Click here to go to the official website",
-  "pack.tcc.version": "Version 0.5",
-  "pack.tcc.version.hover_event": "Click here to see changelog notes",
+  "pack.tcc.hover_event": "Cliquez ici pour allez au site officiel",
+  "pack.tcc.version": "Version 0,5",
+  "pack.tcc.version.hover_event": "Cliquez ici pour voir les notes du journal des modifications",
   "TCC (MISSING RESOURCES)": "%s",
   "The Creeper's Code Resource Pack is not installed. Please go to https://thecreeperscode.com/download.": "%s",
 
